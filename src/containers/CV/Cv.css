@@ -1,0 +1,175 @@
+.main {
+  margin: auto 30px;
+}
+
+.main div {
+  display: flex;
+  justify-content: space-between;
+  align-items: left;
+  margin: auto 10px;
+  box-sizing: border-box;
+}
+/* .main div:hover {
+  background: white;
+} */
+::-webkit-scrollbar {
+  width: 0;
+}
+.main h1 {
+  text-align: center;
+  /* color: rgb(48, 46, 40); */
+  color: azure;
+}
+.personalInfo {
+  /* border: 1px solid black; */
+  background: #e1e289;
+  /* background-color: #a71217; */
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.personalInfo1 {
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  text-align: left;
+  display: flex;
+  flex-flow: column;
+  box-sizing: border-box;
+  /* border: 1px solid black; */
+  background: #bbce4f;
+  padding-left: 25px;
+}
+.careerObjectives {
+  /* border: 1px solid black; */
+  background: #acd2ed;
+}
+
+.careerObjectives1 {
+  box-sizing: border-box;
+  /* border: 1px solid black; */
+  padding-left: 25px;
+  padding-right: 25px;
+  text-align: left;
+  display: flex;
+  flex-flow: column;
+  background: #bbce4f;
+}
+.academics {
+  /* border: 1px solid black; */
+  background: #e1e289;
+}
+
+.academics1 {
+  box-sizing: border-box;
+  /* border: 1px solid black; */
+  padding-left: 25px;
+  padding-right: 25px;
+  text-align: left;
+  display: flex;
+  flex-flow: column;
+  background: #bbce4f;
+}
+.buttonDiv Button {
+  outline: none;
+  margin-left: -8px;
+  color: white;
+}
+.technicalSkils {
+  /* border: 1px solid black; */
+  background: #acd2ed;
+}
+
+.technicalSkils1 {
+  box-sizing: border-box;
+  /* border: 1px solid black; */
+  padding-left: 25px;
+  padding-right: 25px;
+  text-align: left;
+  display: flex;
+  flex-flow: column;
+  background: #bbce4f;
+}
+.projects {
+  /* border: 1px solid black; */
+  background: #e1e289;
+}
+
+.projects1 {
+  box-sizing: border-box;
+  /* border: 1px solid black; */
+  padding-left: 25px;
+  padding-right: 25px;
+  text-align: left;
+  display: flex;
+  flex-flow: column;
+  background: #bbce4f;
+}
+
+.extraCurricular {
+  /* border: 1px solid black; */
+  background: #acd2ed;
+}
+
+.extraCurricular1 {
+  box-sizing: border-box;
+  /* border: 1px solid black; */
+  padding-left: 25px;
+  padding-right: 25px;
+  text-align: left;
+  display: flex;
+  flex-flow: column;
+  background: #bbce4f;
+}
+.softSkills {
+  /* border: 1px solid black; */
+  background: #e1e289;
+}
+
+.softSkills1 {
+  box-sizing: border-box;
+  /* border: 1px solid black; */
+  padding-left: 25px;
+  padding-right: 25px;
+  text-align: left;
+  display: flex;
+  flex-flow: column;
+  background: #bbce4f;
+}
+.strengths {
+  /* border: 1px solid black; */
+  background: #acd2ed;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.strengths1 {
+  box-sizing: border-box;
+  /* border: 1px solid black; */
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  text-align: left;
+  display: flex;
+  flex-flow: column;
+  background: #bbce4f;
+}
+.studies {
+  display: flex;
+  flex-flow: column;
+  text-align: left;
+  background: #272d2d;
+  border-radius: 5px;
+  width: 90%;
+  color: rgb(253, 253, 253);
+}
+
+.studies p {
+  padding-left: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .main {
+    margin: auto 5px;
+  }
+}

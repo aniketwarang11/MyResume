@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap");
+
+.App {
+  margin: 20px auto;
+  padding: 10px 10px;
+  width: 500px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  height: 90vh;
+  border: 1px solid rgb(44, 53, 59);
+  box-shadow: 0 3px 5px rgb(47, 47, 48);
+  background: #272d2d;
+  /* background: url("./assert/back1.jpg"); */
+  background-size: contain;
+  font-family: "Roboto Slab", serif;
+  overflow: scroll;
+}
+@media screen and (max-width: 600px) {
+  .App {
+    width: 90%;
+  }
+}
