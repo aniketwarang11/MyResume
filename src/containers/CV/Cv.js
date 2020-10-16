@@ -166,9 +166,9 @@ function Cv() {
                             }}
                         />
                     </div>
-                    <p>To work wit organization which provide me the opertunity
-                    to improve my skills and knowledge to grow along the organization
-                    oblectives
+                    <p>To work with organization which provides me the opportunity
+                    to improve my skills and knowledge to grow along with the organization
+                    objectives.
                     </p>
                 </div> : null
             }
