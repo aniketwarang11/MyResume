@@ -277,7 +277,7 @@ function Cv() {
                     <p>Tech Used : HTML, CSS, PHP for login And registeration,
                     Bootstrap for front end, SQL for DB.
                     </p>
-                    <h3>Thirf year Project : Android App on viewing online courses.</h3>
+                    <h3>Third year Project : Android App on viewing online courses.</h3>
                     <p>Tech Used : Android, Java, C++, PHP etc.</p>
                     <h3>Final year project : Recomendation System.</h3>
                     <p>Tech Used : Python and Jupyter. And did Content and Collaboration
